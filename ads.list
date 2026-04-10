@@ -1,0 +1,138 @@
+# 傻逼广告
+# 更新于 2026-01-31
+
+host, im-x.jd.com, reject
+host, img1.360buyimg.com, reject
+host, img2.360buyimg.com, reject
+host, main.m.taobao.com, reject
+host, s3plus.meituan.net, reject
+host, impdsp.meituan.com, reject
+host, apimobile.meituan.com, reject
+
+host, httpdns.volcengineapi.com, reject
+host, httpdns.c.cdnhwc2.com, reject
+host, httpdns.alicdn.com, reject
+
+host, t-dsp.pinduoduo.com, reject
+host, images.pinduoduo.com, reject
+host, tnc3-alisc1.zijieapi.com, reject
+host, sdkapp.uve.weibo.com, REJECT
+
+#逼乎广告
+#domain-suffix, api.zhihu.com, reject
+#domain-suffix, pic1.zhimg.com, reject
+#domain-suffix, pic2.zhimg.com, reject
+#domain-suffix, pic3.zhimg.com, reject
+#domain-suffix, pic4.zhimg.com, reject
+#domain-suffix, picx.zhimg.com, reject
+#domain-suffix, pica.zhimg.com, reject
+
+#domain-suffix, duga.zhihu.com, reject
+#domain-suffix, datahub.zhihu.com, reject
+#domain-suffix, page-modular.zhihu.com, reject
+#domain-suffix, pkg1.zhimg.com, reject
+#domain-suffix, pkg2.zhimg.com, reject
+#domain-suffix, pkg3.zhimg.com, reject
+#domain-suffix, pkg4.zhimg.com, reject
+#domain-suffix, pkg5.zhimg.com, reject
+#domain-suffix, pkg6.zhimg.com, reject
+#domain-suffix, pkg7.zhimg.com, reject
+
+
+domain-suffix, a1.alibabausercontent.com, reject
+domain-suffix, lingjuad.com, reject
+domain-suffix, jxdouliang.com, reject
+domain-suffix, immomo.com, reject
+domain-suffix, funmob.cn, reject
+domain-suffix, yourongsj.com, reject
+domain-suffix, ad.hunyuan.tencent.com, reject
+domain-suffix, 72kjmb.com, reject
+domain-suffix, somamobi.com, reject
+domain-suffix, ruofeisinian.com, reject
+domain-suffix, tqxusw.com, reject
+domain-suffix, yijuntour.com, reject
+domain-suffix, inkuai.com, reject
+domain-suffix, kwaizt.com, reject
+domain-suffix, adukwai.com, reject
+domain-suffix, kuaishouzt.com, reject
+domain-suffix, voiceads.cn, reject
+domain-suffix, app-analytics-services.com, reject
+domain-suffix, yuelanxinghe.com, reject
+domain-suffix, coolpush.cn, reject
+domain-suffix, qihuapi.com, reject
+domain-suffix, ad-link.cn, reject
+domain-suffix, bidex.cn, reject
+domain-suffix, ipinyou.com, reject
+domain-suffix, pangolin-sdk-toutiao1.com, reject
+domain-suffix, pangolin-dsp-toutiao.com, reject
+domain-suffix, pglstatp-toutiao.com, reject
+domain-suffix, umeng.com, reject
+domain-suffix, domob.cn, reject
+domain-suffix, uyunad.com, reject
+domain-suffix, vzuu.com, reject
+domain-suffix, shuzilm.cn, reject
+domain-suffix, telecome.cn, reject
+#domain-suffix, volces.com, reject
+domain-suffix, volceapplog.com, reject
+domain-suffix, volcimagex.net, reject
+domain-suffix, lanjingads.com, reject
+domain-suffix, umengcloud.com, reject
+domain-suffix, bayescom.com, reject
+domain-suffix, miaozhen.com, reject
+domain-suffix, meishesdk.com, reject
+domain-suffix, getui.com, reject
+domain-suffix, getui.net, reject
+domain-suffix, zztfly.com, reject
+domain-suffix, tanx.com, reject
+domain-suffix, qchannel01.cn, reject
+domain-suffix, qchannel03.cn, reject
+domain-suffix, adxvip.com, reject
+domain-suffix, brg0.com, reject
+host, ad.12306.cn, reject
+
+
+
+#ip-cidr,  60.31.192.0/24, reject, no-resolve
+#ip-cidr,  61.168.54.0/24, reject, no-resolve
+#ip-cidr,  61.241.148.0/24, reject, no-resolve
+#ip-cidr,  101.72.249.0/24, reject, no-resolve
+#ip-cidr,  103.13.249.0/24, reject, no-resolve
+#ip-cidr,  103.41.107.0/24, reject, no-resolve
+#ip-cidr,  103.41.167.0/24, reject, no-resolve
+#ip-cidr,  106.13.244.0/24, reject, no-resolve
+
+#ip-cidr,  106.23.244.0/24, reject, no-resolve
+#ip-cidr,  114.111.24.0/24, reject, no-resolve
+#ip-cidr,  116.196.152.0/24, reject, no-resolve
+#ip-cidr,  116.196.155.0/24, reject, no-resolve
+#ip-cidr,  116.196.156.0/24, reject, no-resolve
+#ip-cidr,  119.29.29.0/24, reject, no-resolve
+
+#ip-cidr,  182.61.194.0/24, reject, no-resolve
+#ip-cidr,  123.6.52.0/24, reject, no-resolve
+#ip-cidr,  123.6.101.0/24, reject, no-resolve
+#ip-cidr,  123.6.141.0/24, reject, no-resolve
+#ip-cidr,  123.12.235.0/24, reject, no-resolve
+#ip-cidr,  123.125.244.0/24, reject, no-resolve
+#ip-cidr,  123.148.116.0/24, reject, no-resolve
+#ip-cidr,  124.238.242.0/24, reject, no-resolve
+#ip-cidr,  125.39.47.0/24, reject, no-resolve
+#ip-cidr,  221.204.18.0/24, reject, no-resolve
+
+#逼乎
+#ip-cidr,  1.71.88.0/24, reject, no-resolve
+#ip-cidr,  1.194.167.0/24, reject, no-resolve
+#ip-cidr,  60.28.220.0/24, reject, no-resolve
+#ip-cidr,  101.72.227.0/24, reject, no-resolve
+#ip-cidr,  106.13.249.0/24, reject, no-resolve
+#ip-cidr,  106.38.195.0/24, reject, no-resolve
+#ip-cidr,  119.188.134.0/24, reject, no-resolve
+#ip-cidr,  144.7.103.0/24, reject, no-resolve
+#ip-cidr,  202.108.15.0/24, reject, no-resolve
+#ip-cidr,  220.181.181.0/24, reject, no-resolve
+#ip-cidr,  220.194.123.0/24, reject, no-resolve
+
+
+#狗东
+#ip-cidr,  123.182.186.0/24, reject, no-resolve
+#ip-cidr,  123.182.190.0/24, reject, no-resolve
