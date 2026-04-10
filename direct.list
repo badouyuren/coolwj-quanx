@@ -1,0 +1,11 @@
+# 直连地址
+domain-suffix, hecom.cn ,direct
+domain-keyword, microsoft ,direct
+domain-suffix, microsoft.com ,direct
+domain-suffix, bing.com ,direct
+domain-keyword, huawei ,direct
+domain-suffix, hc-cdn.com ,direct
+domain-suffix, aliyun.com ,direct
+domain-suffix, kdocs.cn ,direct
+domain-suffix, tapd.cn ,direct
+domain-suffix, kimi.com ,direct
