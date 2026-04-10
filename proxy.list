@@ -1,0 +1,42 @@
+# 代理地址
+domain-suffix, coolwj.com ,proxy
+domain-suffix, no-mad-world.club ,proxy
+
+domain-keyword, github ,proxy
+domain-suffix, github.com ,proxy
+domain-suffix, github.io ,proxy
+domain-suffix, githubassets.com ,proxy
+domain-suffix, githubusercontent.com ,proxy
+
+domain-keyword, google ,proxy
+domain-suffix, gemini.google.com ,proxy
+domain-suffix, googleapis.com ,proxy
+domain-suffix, gstatic.com ,proxy
+domain-suffix, googleusercontent.com ,proxy
+domain-suffix, google.com.hk ,proxy
+domain-suffix, youtube.com ,proxy
+
+domain-suffix, docker.io ,proxy
+domain-suffix, docker.com ,proxy
+
+domain-keyword, postman ,proxy
+domain-suffix, pstmn.io ,proxy
+domain-suffix, postman.com ,proxy
+domain-suffix, getpostman.com ,proxy
+
+domain-suffix, grok.com ,proxy
+domain-suffix, x.com ,proxy
+domain-suffix, twitter.com ,proxy
+domain-suffix, wikipedia.org ,proxy
+domain-suffix, thepiratebay.org ,proxy
+domain-suffix, v2ex.com ,proxy
+domain-suffix, suno.com ,proxy
+domain-suffix, steampowered.com ,proxy
+domain-suffix, poe.com ,proxy
+domain-suffix, dify.ai ,proxy
+domain-suffix, huggingface.co ,proxy
+domain-keyword, reddit ,proxy
+domain-suffix, reddit.com ,proxy
+domain-suffix, redd.it ,proxy
+domain-suffix, redditmedia.com ,proxy
+domain-suffix, godaddy.com ,proxy
