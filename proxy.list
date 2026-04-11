@@ -1,6 +1,5 @@
 # 代理地址
-domain-suffix, coolwj.com ,proxy
-domain-suffix, no-mad-world.club ,proxy
+
 
 domain-keyword, github ,proxy
 domain-suffix, github.com ,proxy
@@ -15,6 +14,7 @@ domain-suffix, gstatic.com ,proxy
 domain-suffix, googleusercontent.com ,proxy
 domain-suffix, google.com.hk ,proxy
 domain-suffix, youtube.com ,proxy
+domain-suffix, coolwj.com ,proxy
 
 domain-suffix, docker.io ,proxy
 domain-suffix, docker.com ,proxy
@@ -41,4 +41,6 @@ domain-suffix, redd.it ,proxy
 domain-suffix, redditmedia.com ,proxy
 domain-suffix, godaddy.com ,proxy
 
+
 domain-suffix, xn--4gq62f52gdss.com ,proxy
+domain-suffix, no-mad-world.club ,proxy
