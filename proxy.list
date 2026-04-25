@@ -14,6 +14,7 @@ domain-suffix, gstatic.com ,proxy
 domain-suffix, googleusercontent.com ,proxy
 domain-suffix, google.com.hk ,proxy
 domain-suffix, youtube.com ,proxy
+domain-suffix, ytimg.com, proxy
 domain-suffix, coolwj.com ,proxy
 
 domain-suffix, docker.io ,proxy
