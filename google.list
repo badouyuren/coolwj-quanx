@@ -1,0 +1,10 @@
+# 谷歌服务
+
+domain-keyword, google ,proxy
+domain-suffix, gemini.google.com ,proxy
+domain-suffix, googleapis.com ,proxy
+domain-suffix, gstatic.com ,proxy
+domain-suffix, googleusercontent.com ,proxy
+domain-suffix, google.com.hk ,proxy
+domain-suffix, youtube.com ,proxy
+domain-suffix, ytimg.com, proxy

@@ -1,0 +1,7 @@
+# GitHub
+
+domain-keyword, github ,proxy
+domain-suffix, github.com ,proxy
+domain-suffix, github.io ,proxy
+domain-suffix, githubassets.com ,proxy
+domain-suffix, githubusercontent.com ,proxy

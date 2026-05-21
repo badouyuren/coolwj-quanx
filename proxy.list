@@ -1,22 +1,4 @@
 # 代理地址
-
-
-domain-keyword, github ,proxy
-domain-suffix, github.com ,proxy
-domain-suffix, github.io ,proxy
-domain-suffix, githubassets.com ,proxy
-domain-suffix, githubusercontent.com ,proxy
-
-domain-keyword, google ,proxy
-domain-suffix, gemini.google.com ,proxy
-domain-suffix, googleapis.com ,proxy
-domain-suffix, gstatic.com ,proxy
-domain-suffix, googleusercontent.com ,proxy
-domain-suffix, google.com.hk ,proxy
-domain-suffix, youtube.com ,proxy
-domain-suffix, ytimg.com, proxy
-domain-suffix, coolwj.com ,proxy
-
 domain-suffix, docker.io ,proxy
 domain-suffix, docker.com ,proxy
 
@@ -41,6 +23,8 @@ domain-suffix, reddit.com ,proxy
 domain-suffix, redd.it ,proxy
 domain-suffix, redditmedia.com ,proxy
 domain-suffix, godaddy.com ,proxy
+
+domain-suffix, coolwj.com ,proxy
 
 domain-suffix, 1lou.me, proxy
 domain-suffix, xn--4gq62f52gdss.com ,proxy
