@@ -1,6 +1,8 @@
 # 傻逼广告
 # 更新于 2026-01-31
 
+host, sylvan.apple.com, reject
+
 host, im-x.jd.com, reject
 host, img1.360buyimg.com, reject
 host, img2.360buyimg.com, reject
