@@ -1,5 +1,5 @@
 # 傻逼广告
-# 更新于 2026-01-31
+# 更新于 2026-08-15
 
 #host, sylvan.apple.com, reject
 
@@ -41,6 +41,14 @@ host, sdkapp.uve.weibo.com, REJECT
 #domain-suffix, pkg7.zhimg.com, reject
 
 
+domain-suffix, zhangyuyidong.cn, reject
+domain-suffix, izuiyou.com, reject
+domain-suffix, ixiaochuan.cn, reject
+domain-suffix, kuiniuca.com, reject
+domain-suffix, 66mobi.com, reject
+
+
+domain-suffix, adwangmai.com, reject
 domain-suffix, a1.alibabausercontent.com, reject
 domain-suffix, lingjuad.com, reject
 domain-suffix, jxdouliang.com, reject
