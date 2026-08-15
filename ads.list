@@ -46,6 +46,9 @@ domain-suffix, izuiyou.com, reject
 domain-suffix, ixiaochuan.cn, reject
 domain-suffix, kuiniuca.com, reject
 domain-suffix, 66mobi.com, reject
+domain-suffix, qiezibenpao.com, reject
+domain-suffix, ippzone.com, reject
+domain-suffix, 1rtb.com, reject
 
 
 domain-suffix, adwangmai.com, reject
